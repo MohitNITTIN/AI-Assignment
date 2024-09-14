@@ -1,6 +1,11 @@
 import random
 
-
+"""
+112121032
+MohitKumar Arjunlal Saini
+Department : MME
+CS Minor : AI
+"""
 class EightQueens:
     def __init__(self):
         # Initialize a random board configuration
